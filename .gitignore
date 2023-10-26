@@ -1,0 +1,9 @@
+
+# other project
+SGSI-build-tool/
+unpackandroidrom/
+temp/
+
+# vscode
+.vscode/
+*.code-workspace
