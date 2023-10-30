@@ -1,0 +1,6 @@
+[submodule "tools/vdexExtractor"]
+	path = tools/vdexExtractor
+	url = https://github.com/anestisb/vdexExtractor.git
+[submodule "tools/lpunpack"]
+	path = tools/lpunpack
+	url = https://github.com/LonelyFool/lpunpack_and_lpmake.git

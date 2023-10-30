@@ -1,4 +1,9 @@
-.PHONY: clean
+.PHONY: clean build install
+
+build:
+
+install: build
+
 
 clean:
 	find . -name '*.pyc' -delete
